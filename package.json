@@ -20,6 +20,7 @@
   "homepage": "https://github.com/IMackie22/macappsbackend#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mongoose": "^6.2.10"
+    "mongoose": "^6.2.10",
+    "pusher": "^5.0.1"
   }
 }
